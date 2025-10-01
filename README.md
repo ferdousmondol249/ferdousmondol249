@@ -6,7 +6,7 @@
 
 <img src="https://z-p3-scontent.fdac12-1.fna.fbcdn.net/v/t39.30808-6/481023821_1159728439081513_4081751910169564873_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=JM8kaphJx4oQ7kNvwG3HVs9&_nc_oc=Adk2180f6zTT93SrwpV1n42xc3whviPvREbJURHnKIKNBFUQvvtp1OfobeMGaZQvzb4&_nc_zt=23&_nc_ht=z-p3-scontent.fdac12-1.fna&_nc_gid=rXxSstwCm386BnFWzrydyQ&oh=00_AfZc-pMyrmcAdRgZGzZyV1Tj1_q2P5XLTwE1_6OZx7GDdg&oe=68E34D14" 
      alt="Profile Image" 
-     width="200">
+     width="700">
 
 *I’m a passionate full-stack web developer with hands-on experience in the MERN stack and FastAPI. Currently, I am honing my skills as an intern at SoftLab IT while pursuing my studies in computer science. I love building scalable web applications and exploring the world of machine learning and deep learning. I enjoy turning ideas into real-world solutions, constantly learning new technologies, and pushing my boundaries to create impactful projects.*
 
