@@ -23,23 +23,11 @@ Skills: Web Development: Frontend: React, HTML5, CSS3, TailwindCSS, JavaScript (
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ferdousmondol249&show_icons=true) 
 
 
-<a href="https://github.com/ferdousmondol249" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg?color=181717" alt="github" height="40">
-</a>
 
-<a href="https://www.linkedin.com/in/ferdous-mondol-86a4a22b1/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg?color=0A66C2" alt="linkedin" height="40">
-</a>
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ferdousmondol249)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferdous-mondol-86a4a22b1/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/ferdous.mondol249)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ferdous4022/)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCgBg8TEXAag80MuzM4Lyjsw)
 
-<a href="https://www.facebook.com/ferdous.mondol249" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg?color=1877F2" alt="facebook" height="40">
-</a>
-
-<a href="https://www.instagram.com/ferdous4022/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg?color=E4405F" alt="instagram" height="40">
-</a>
-
-<a href="https://www.youtube.com/channel/UCgBg8TEXAag80MuzM4Lyjsw" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg?color=FF0000" alt="youtube" height="40">
-</a>
 
