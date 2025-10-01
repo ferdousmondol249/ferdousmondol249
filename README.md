@@ -17,28 +17,29 @@ Skills: Web Development: Frontend: React, HTML5, CSS3, TailwindCSS, JavaScript (
 - ⚡ Fun fact: Coffee fuels my coding marathons. 
 
 
-<a href="https://github.com/ferdousmondol249" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40" style="fill:#181717;">
-</a>
-
-<a href="https://www.linkedin.com/in/ferdous-mondol-86a4a22b1/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40" style="fill:#0A66C2;">
-</a>
-
-<a href="https://www.facebook.com/ferdous.mondol249" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="40" style="fill:#1877F2;">
-</a>
-
-<a href="https://www.instagram.com/ferdous4022/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="40" style="fill:#E4405F;">
-</a>
-
-<a href="https://www.youtube.com/channel/UCgBg8TEXAag80MuzM4Lyjsw" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="youtube" height="40" style="fill:#FF0000;">
-</a>
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferdousmondol249)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ferdousmondol249&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ferdousmondol249&show_icons=true) 
+
+
+<a href="https://github.com/ferdousmondol249" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg?color=181717" alt="github" height="40">
+</a>
+
+<a href="https://www.linkedin.com/in/ferdous-mondol-86a4a22b1/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg?color=0A66C2" alt="linkedin" height="40">
+</a>
+
+<a href="https://www.facebook.com/ferdous.mondol249" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg?color=1877F2" alt="facebook" height="40">
+</a>
+
+<a href="https://www.instagram.com/ferdous4022/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg?color=E4405F" alt="instagram" height="40">
+</a>
+
+<a href="https://www.youtube.com/channel/UCgBg8TEXAag80MuzM4Lyjsw" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg?color=FF0000" alt="youtube" height="40">
+</a>
 
